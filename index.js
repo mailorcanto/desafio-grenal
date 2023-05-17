@@ -1,4 +1,4 @@
-//A FGF contratou para escrever um programa para fazer uma estatística de resultados de vários Grenais. Escreva um programa para ler o número de
+//A FGF contratou você para escrever um programa para fazer uma estatística de resultados de vários Grenais. Escreva um programa para ler o número de
 //gols marcados pelo Grêmio e pelo Inter em um Grenal. Logo após, escrever a mensagem "Novo Grenal (1 - sim, 2 - não)" e solicitar uma resposta.
 //Se a resposta for 1, o algoritmo deve ser executado novamente, solicitando o número de gols marcados pelos times em uma nova partida.
 //Caso contrário, deve ser encerrado, imprimindo:
